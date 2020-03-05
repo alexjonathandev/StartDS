@@ -2,6 +2,6 @@
 
 Mr.Coffee
 
-Alejandro Silva
-Alex Abelha
+Alejandro Silva <br> 
+Alex Abelha <br>
 Alex Jonathan
